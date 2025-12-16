@@ -18,6 +18,12 @@ A clean, dark-themed desktop application designed to help you track your EA FC M
 
 *   **Modern UI**: Sleek "Obsidian" dark theme designed for a premium look and feel.
 
+### v1.1 Updates
+
+*   **Sell Date & Hold Time**: Now tracks "Buy Date" and "Sell Date" separately. automatically calculating the "Hold Time" (days held) for sold items.
+
+*   **Enhanced Entry Editing**: The edit dialog now includes dedicated fields for both Buy and Sell dates, giving you full control over your records.
+
 ## 🚀 Installation & Usage
 
 1.  Download `EA FC Mobile Investment Tracker.exe`.
